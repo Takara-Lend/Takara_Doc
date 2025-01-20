@@ -6,7 +6,7 @@ description: How to claim rewards on Takara
 
 1. Navigate to "Rewards".
 
-<div align="left"><figure><picture><source srcset="../../.gitbook/assets/Screenshot 2025-01-19 at 7.59.44 PM.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2025-01-19 at 7.59.37 PM.png" alt="" width="231"></picture><figcaption></figcaption></figure></div>
+<div align="center"><figure><picture><source srcset="../../.gitbook/assets/Screenshot 2025-01-19 at 7.59.44 PM.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2025-01-19 at 7.59.37 PM.png" alt="" width="231"></picture><figcaption></figcaption></figure></div>
 
 2. Locate and click the "**Claim**" button within the rewards panel to receive your rewards.
 

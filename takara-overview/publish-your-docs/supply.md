@@ -33,17 +33,17 @@ Lend your assets to start earning a variable interest rate and rewards.
 
 1. Navigate to "[**Markets**](https://moonwell.fi/markets)"
 
-<div align="left"><figure><picture><source srcset="../../.gitbook/assets/Screenshot 2025-01-19 at 6.48.32 PM.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2025-01-19 at 6.48.22 PM.png" alt="" width="235"></picture><figcaption></figcaption></figure></div>
+<div align="center"><figure><picture><source srcset="../../.gitbook/assets/Screenshot 2025-01-19 at 6.48.32 PM.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2025-01-19 at 6.48.22 PM.png" alt="" width="235"></picture><figcaption></figcaption></figure></div>
 
 2. Click "**Supply**" on the asset you want to lend.
 
-<figure><img src="../../.gitbook/assets/supply2.gif" alt=""><figcaption><p>Clicking "Supply" will direct you to the "Lend" page of the desired asset.</p></figcaption></figure>
+<div align="center"><figure><img src="../../.gitbook/assets/supply2.gif" alt=""><figcaption><p>Clicking "Supply" will direct you to the "Lend" page of the desired asset.</p></figcaption></figure></div>
 
 ### Step 2: Completing Deposit Transaction
 
 1. With the "**Supply**" modal selected, enter the amount to be supplied.
 
-<div align="left"><figure><img src="../../.gitbook/assets/input.gif" alt="" width="362"><figcaption><p>Enter the desired amount to supply</p></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/input.gif" alt="" width="362"><figcaption><p>Enter the desired amount to supply</p></figcaption></figure></div>
 
 2. Click "**Deposit**" to initiate the transaction.
 
@@ -52,7 +52,7 @@ Lend your assets to start earning a variable interest rate and rewards.
 3. Sign the transaction and wait for the transaction to complete.
 4. Congratulations! You have successfully supplied assets to Takara.
 
-<div align="left"><figure><img src="../../.gitbook/assets/Screenshot 2025-01-19 at 7.12.41 PM.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/Screenshot 2025-01-19 at 7.12.41 PM.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
 Once the transaction is confirmed, you will receive tTokens in exchange for the tokens you have supplied to Takara. tTokens are transferable, yield-bearing ERC-20 tokens that represent a user's position on Takara.

@@ -21,12 +21,12 @@ description: Learn how to withdraw your assets from Takara
 
 1. Select "**Withdraw**" from the modal.
 
-<div align="left"><figure><picture><source srcset="../../.gitbook/assets/Screenshot 2025-01-19 at 7.49.34 PM.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2025-01-19 at 7.49.26 PM.png" alt="" width="375"></picture><figcaption><p>In this example, the USDT token is used. However, you can select other assets by using the dropdown menu.</p></figcaption></figure></div>
+<div align="center"><figure><picture><source srcset="../../.gitbook/assets/Screenshot 2025-01-19 at 7.49.34 PM.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2025-01-19 at 7.49.26 PM.png" alt="" width="375"></picture><figcaption><p>In this example, the USDT token is used. However, you can select other assets by using the dropdown menu.</p></figcaption></figure></div>
 
 2. With the "**Withdraw**" modal selected, enter the amount you wish to withdraw from Takara. **Please** confirm if there is enough liquidity to proceed with the withdrawal. More information can be found below.
 3. Click "**Withdraw**".
 
-<div align="left"><figure><picture><source srcset="../../.gitbook/assets/Screenshot 2025-01-19 at 7.52.37 PM.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2025-01-19 at 7.52.31 PM.png" alt="" width="375"></picture><figcaption><p>To initiate the withdrawal process, simply click on "Withdraw."</p></figcaption></figure></div>
+<div align="center"><figure><picture><source srcset="../../.gitbook/assets/Screenshot 2025-01-19 at 7.52.37 PM.png" media="(prefers-color-scheme: dark)"><img src="../../.gitbook/assets/Screenshot 2025-01-19 at 7.52.31 PM.png" alt="" width="375"></picture><figcaption><p>To initiate the withdrawal process, simply click on "Withdraw."</p></figcaption></figure></div>
 
 4. **Confirm** the transaction in your wallet and wait for it to complete. Once successful, you will have withdrawn from the desired market.
 
