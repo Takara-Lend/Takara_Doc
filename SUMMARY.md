@@ -14,6 +14,8 @@
 * [🤝 Lend](takara-overview/publish-your-docs/README.md)
   * [Supply](takara-overview/publish-your-docs/supply.md)
   * [Withdraw](takara-overview/publish-your-docs/withdraw.md)
+  * [Claiming Rewards](takara-overview/publish-your-docs/claiming-rewards.md)
+  * [Lend FAQ](takara-overview/publish-your-docs/lend-faq.md)
 * [Borrow](takara-overview/borrow.md)
 
 ***
