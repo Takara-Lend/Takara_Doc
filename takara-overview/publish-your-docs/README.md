@@ -24,7 +24,7 @@ Takara allows users to lend their assets in single-sided liquidity pools, common
 
 {% tabs %}
 {% tab title="SEI V2" %}
-* <img src="https://github.com/Takara-Lend/Takara_Doc.git" alt="" data-size="line"> SEI (SEI)
+* <img src="https://takara-fe.vercel.app/assets/Sei_Red-YmbvFjcl.png" alt="" data-size="line"> SEI (SEI)
 * <img src="https://takara-fe.vercel.app/assets/isei--VbOAVyu.png" alt="" data-size="line"> iSEI (iSEI)
 * <img src="https://takara-fe.vercel.app/assets/usdt-Ca1odQOM.png" alt="" data-size="line"> USDT (Tether USD)
 * <img src="https://takara-fe.vercel.app/assets/usdc-CEAokvxp.png" alt="" data-size="line"> USDC (USD Coin)
