@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/getting-started.png" alt=""><figcaption></figcaption></figure>
 
-To begin using Moonwell, the first step is to connect a wallet.
+To begin using Takara, the first step is to connect a wallet.
 
 Takara is deployed on the Sei Networks V2, which is Ethereum Virtual Machine (EVM) compatible. This compatibility ensures that a broad spectrum of wallets can support Takara.
 
