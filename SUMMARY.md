@@ -16,7 +16,7 @@
   * [Withdraw](takara-overview/publish-your-docs/withdraw.md)
   * [Claiming Rewards](takara-overview/publish-your-docs/claiming-rewards.md)
   * [Lend FAQ](takara-overview/publish-your-docs/lend-faq.md)
-* [Borrow](takara-overview/borrow.md)
+* [🤝 Borrow](takara-overview/borrow.md)
 
 ***
 
