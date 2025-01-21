@@ -8,17 +8,17 @@ Takara Lend is dedicated to maintaining a secure and resilient protocol, ensurin
 
 Takara Lend undergoes rigorous security audits conducted by top-tier blockchain security firms to identify and eliminate vulnerabilities. These assessments involve in-depth analysis of the smart contract architecture, ensuring best practices are followed for robust security. Our team collaborates closely with auditors to swiftly address any discovered issues, strengthening the protocol’s overall resilience.
 
-To maintain continuous security oversight, Takara Lend has partnered with Zellic, a renowned cybersecurity firm specializing in blockchain security. Zellic provides ongoing monitoring and vulnerability assessments, helping us proactively address emerging threats and refine our security posture.
+To maintain continuous security oversight, Takara Lend has partnered with [Zellic](https://zellic.io/), a renowned cybersecurity firm specializing in blockchain security. Zellic provides ongoing monitoring and vulnerability assessments, helping us proactively address emerging threats and refine our security posture.
 
 #### Reliable Price Feeds with RedStone and API3
 
-Accurate and tamper-resistant price data is fundamental to the security of any DeFi protocol. Takara Lend leverages RedStone and API3 oracle solutions to ensure real-time, decentralized, and highly reliable price feeds. RedStone’s customizable oracle network delivers fast, on-demand data while API3’s first-party oracle framework eliminates intermediaries, reducing attack vectors.
+Accurate and tamper-resistant price data is fundamental to the security of any DeFi protocol. Takara Lend leverages [RedStone](https://www.redstone.finance/) and [API3](https://api3.org/) oracle solutions to ensure real-time, decentralized, and highly reliable price feeds. RedStone’s customizable oracle network delivers fast, on-demand data while API3’s first-party oracle framework eliminates intermediaries, reducing attack vectors.
 
 By integrating both RedStone and API3, Takara Lend safeguards against price manipulation, securing borrowing and lending transactions with accurate and trustless data feeds.
 
 #### Advanced Risk Monitoring and Threat Detection
 
-Security in DeFi extends beyond smart contract safety—it requires proactive monitoring of emerging threats. Takara Lend has partnered with Hypernative, an industry leader in real-time risk detection and mitigation. Hypernative’s cutting-edge security platform continuously scans for anomalies, providing early warnings and automated responses to potential threats. ([hypernative.io](https://www.hypernative.io/))
+Security in DeFi extends beyond smart contract safety—it requires proactive monitoring of emerging threats. Takara Lend has partnered with [Hypernative](https://www.hypernative.io/), an industry leader in real-time risk detection and mitigation. Hypernative’s cutting-edge security platform continuously scans for anomalies, providing early warnings and automated responses to potential threats.&#x20;
 
 Through Hypernative’s advanced analytics and threat intelligence, we mitigate risks across multiple fronts:
 
