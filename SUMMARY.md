@@ -22,13 +22,15 @@
 
 * [Welcome to Takara](readme.md)
 
-## Protocol
+## Protocol Information
 
-* [Yield Structure](protocol/editor.md)
-* [Credit Limit & Liquidation](protocol/markdown.md)
-* [Interest Rate Model](protocol/images-and-media.md)
-* [Collateral and Reserves](protocol/interactive-blocks.md)
-* [Takara Lend Contract Overview](protocol/openapi.md)
+* [‼️ Protocol Information](protocol-information/protocol-information.md)
+* [🛡️ Security](protocol-information/security.md)
+* [Yield Structure](protocol-information/editor.md)
+* [Credit Limit & Liquidation](protocol-information/markdown.md)
+* [Interest Rate Model](protocol-information/images-and-media.md)
+* [Collateral and Reserves](protocol-information/interactive-blocks.md)
+* [Takara Lend Contract Overview](protocol-information/openapi.md)
 
 ## Other INFO
 
