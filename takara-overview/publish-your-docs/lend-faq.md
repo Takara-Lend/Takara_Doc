@@ -45,3 +45,8 @@ Rewards are additional incentives that need to be manually claimed by the user.
 
 ## Market Utilization and Liquidity
 
+Market utilization measures the proportion of borrowed funds compared to the total supply of assets within a given market.
+
+* Utilization exceeding 100% means the total borrowed amount, including accrued interest, has surpassed the total supply.
+* As utilization nears 100%, liquidity shortages may make it challenging to withdraw assets.
+
