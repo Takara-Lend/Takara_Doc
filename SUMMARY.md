@@ -22,6 +22,8 @@
 
 * [‼️ Protocol Information](protocol-information/protocol-information.md)
 * [🛡️ Security](protocol-information/security.md)
+* [🔎 Audits](protocol-information/audits.md)
+* [🖊️ Term of Service](protocol-information/term-of-service.md)
 * [Credit Limit & Liquidation](protocol-information/markdown.md)
 * [Interest Rate Model](protocol-information/images-and-media.md)
 * [Collateral and Reserves](protocol-information/interactive-blocks.md)
