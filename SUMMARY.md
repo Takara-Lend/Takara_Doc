@@ -16,7 +16,11 @@
   * [Withdraw](takara-overview/publish-your-docs/withdraw.md)
   * [Claiming Rewards](takara-overview/publish-your-docs/claiming-rewards.md)
   * [Lend FAQ](takara-overview/publish-your-docs/lend-faq.md)
-* [🤝 Borrow](takara-overview/borrow.md)
+* [🤝 Borrow](takara-overview/borrow/README.md)
+  * [How to Borrow](takara-overview/borrow/how-to-borrow.md)
+  * [Loan Repayment](takara-overview/borrow/loan-repayment.md)
+  * [Credit and Liquidations](takara-overview/borrow/credit-and-liquidations.md)
+  * [Borrow FAQ](takara-overview/borrow/borrow-faq.md)
 
 ## Protocol Information
 
@@ -24,17 +28,8 @@
 * [🛡️ Security](protocol-information/security.md)
 * [🔎 Audits](protocol-information/audits.md)
 * [🖊️ Term of Service](protocol-information/term-of-service.md)
+* [🖼️ Media Kit](protocol-information/media-kit.md)
 * [Credit Limit & Liquidation](protocol-information/markdown.md)
 * [Interest Rate Model](protocol-information/images-and-media.md)
 * [Collateral and Reserves](protocol-information/interactive-blocks.md)
 * [Takara Lend Contract Overview](protocol-information/openapi.md)
-
-***
-
-* [Welcome to Takara](readme.md)
-
-## Other INFO
-
-* [Security](other-info/security.md)
-* [Media Kit](other-info/media-kit.md)
-* [Legal Disclaimer](other-info/legal-disclaimer.md)
