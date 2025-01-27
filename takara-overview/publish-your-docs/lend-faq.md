@@ -18,8 +18,8 @@ Here are the key points to understand about Base APY:
    * The Base APY is automatically compounded back into the smart contract of the supplied asset.
    * No manual claiming is required, making the process seamless for users.
 2. **Asset-Specific Rewards**
-   * Earnings are distributed in the specific token that protocol is distributing.
-   * For example, if the rewarding asset is SEI, you will get additional SEI rewards for supplyig assets.
+   * Earnings are distributed in the specific token that the protocol is distributing.
+   * For example, if the rewarding asset is SEI, you will get additional SEI rewards for supplying assets.
 3. **How Base APY Is Determined**
    * **Algorithmic Calculation:** Base APY is calculated based on the market's utilization rate.
    * **Interest Rate Curves:** Defined through Takara Governance, these curves establish the relationship between market utilization and Base APY.

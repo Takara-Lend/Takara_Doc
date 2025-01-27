@@ -54,7 +54,7 @@ Here’s an example to illustrate:
 
 ## Liquidation Incentive
 
-The Liquidation Incentive in the Moonwell protocol is designed to reward liquidators for executing liquidations, ensuring the protocol’s solvency and promoting efficient liquidation processes. This incentive is equal to 10% of the outstanding borrow amount of an account subject to liquidation and is split into two components:
+The Liquidation Incentive in the Takara protocol is designed to reward liquidators for executing liquidations, ensuring the protocol’s solvency and promoting efficient liquidation processes. This incentive is equal to 10% of the outstanding borrow amount of an account subject to liquidation and is split into two components:
 
 1\. **7% Liquidator Bonus**: This portion is awarded to the liquidator as a reward for promptly and effectively carrying out the liquidation. By offering this bonus, the protocol encourages active participation and ensures the timely resolution of at-risk accounts.
 

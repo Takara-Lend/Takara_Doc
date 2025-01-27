@@ -22,5 +22,5 @@ This dynamic oracle system reduces the risk of price manipulation, which is esse
 
 3. **Safety Module(COMING SOON)**
 
-The Takara Safety Module provides an extra layer of protection against unexpected events, such as smart contract vulnerabilities, liquidation failures, or oracle disruptions. Integrated into Moonwell’s security framework, the Safety Module strengthens the protocol’s resilience and ensures greater reliability.
+The Takara Safety Module provides an extra layer of protection against unexpected events, such as smart contract vulnerabilities, liquidation failures, or oracle disruptions. Integrated into Takara’s security framework, the Safety Module strengthens the protocol’s resilience and ensures greater reliability.
 
