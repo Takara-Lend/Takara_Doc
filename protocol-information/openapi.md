@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Takara Lend Contract Overview
 
 ### Introduction

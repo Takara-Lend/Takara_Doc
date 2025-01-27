@@ -1,6 +1,6 @@
-# Interest Rate Model
+# 📈 Interest Rate Model
 
-Borrow APR
+## Borrow APR
 
 The interest rate model for borrowed assets can be calculated using the following formula:
 
@@ -10,7 +10,7 @@ The interest rate model for borrowed assets can be calculated using the followin
 
 
 
-Supply APR
+## Supply APR
 
 The interest rate model for supplying assets can be calculated using the following formula:
 
