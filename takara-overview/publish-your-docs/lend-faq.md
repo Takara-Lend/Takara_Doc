@@ -19,7 +19,7 @@ Here are the key points to understand about Base APY:
    * No manual claiming is required, making the process seamless for users.
 2. **Asset-Specific Rewards**
    * Earnings are distributed in the specific token that the protocol is distributing.
-   * For example, if the rewarding asset is SEI, you will get additional SEI rewards for supplying assets.
+   * For example, if the rewarding asset is SEI, you will receive additional SEI rewards for supplying assets.
 3. **How Base APY Is Determined**
    * **Algorithmic Calculation:** Base APY is calculated based on the market's utilization rate.
    * **Interest Rate Curves:** Defined through Takara Governance, these curves establish the relationship between market utilization and Base APY.
