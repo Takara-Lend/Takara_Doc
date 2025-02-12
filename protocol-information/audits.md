@@ -14,4 +14,5 @@ Takara smart contracts undergo thorough audits by top-tier security firms before
 
 ### Zellic Audit
 
-Coming soon.
+{% file src="../.gitbook/assets/Takara Lend Contracts - Zellic Audit Report.pdf" %}
+
