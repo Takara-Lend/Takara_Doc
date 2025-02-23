@@ -28,6 +28,7 @@
 * [📈 Interest Rate Model](protocol-information/images-and-media.md)
 * [🛡️ Security](protocol-information/security.md)
 * [🔎 Audits](protocol-information/audits.md)
+* [📜 Contracts](protocol-information/contracts.md)
 * [🖊️ Term of Service](protocol-information/term-of-service.md)
 * [🖼️ Media Kit](protocol-information/media-kit.md)
 * [Credit Limit & Liquidation](protocol-information/markdown.md)
