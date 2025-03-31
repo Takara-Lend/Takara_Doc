@@ -10,7 +10,7 @@ The Supply APY (Annual Percentage Yield) of an asset on Takara consists of two c
 
 ### Base APY
 
-The Base APY is the interest rate that lenders earn through automatic compounding when supplying assets on Takaraa. It is determined by the fees collected from borrowers.
+The Base APY is the interest rate that lenders earn through automatic compounding when supplying assets on Takara. It is determined by the fees collected from borrowers.
 
 Here are the key points to understand about Base APY:
 
