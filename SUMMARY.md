@@ -21,7 +21,11 @@
   * [Loan Repayment](takara-overview/borrow/loan-repayment.md)
   * [Credit and Liquidations](takara-overview/borrow/credit-and-liquidations.md)
   * [Borrow FAQ](takara-overview/borrow/borrow-faq.md)
-* [💎 Takara Karats (Points)](takara-overview/takara-karats-points.md)
+* [💎 Takara Karats (Points)](takara-overview/takara-karats-points/README.md)
+  * [Activity](takara-overview/takara-karats-points/activity.md)
+  * [Tier/NFT](takara-overview/takara-karats-points/tier-nft.md)
+  * [Quest](takara-overview/takara-karats-points/quest.md)
+  * [Leaderboard](takara-overview/takara-karats-points/leaderboard.md)
 * [🗣️ Referral System](takara-overview/referral-system.md)
 
 ## Protocol Information
