@@ -4,7 +4,7 @@
 
 1. **Referral Link Activation**
 
-Users can generate their unique referral link **only after reaching a certain Karats threshold**.
+Users can generate their unique referral links **only after reaching a certain Karats threshold**.
 
 2. **Referrer Rewards**
 
@@ -16,30 +16,30 @@ The invitee receives a **10% bonus on Karats earned** through the platform.
 
 ***
 
-#### **How do I refer someone to Takara Lend?**
+#### **How to refer someone to Takara Lend?**
 
-1. **Locate the Referral Code**
+1. **Locate the Referral Link**
 
-Visit “[takara referral page](https://app.takaralend.com/leaderboard)”, generate the referral code.
+Visit “[takara referral page](https://app.takaralend.com/leaderboard)”, find the Referral section and generate the referral Link.
 
-_**Note**: Users must have **3500** Karats to generate the referral code._
+_**Note**: Users must have **3500** Karats to generate the referral Link._
 
-2. **Share the Referral Code**
+1. **Share the Referral Link**
 
-Share the code directly with a friend or community member.
+Share the Link directly with friends or community members.
 
-3. **Track Referral Activity**
+1. **Track Referral Activity**
 
-Once a new user signs up using a specific referral code, the referrer begins earning referral rewards based on the user’s supply rewards.
+Once a user signs up using a specific referral Link, the referrer begins earning referral rewards based on the user’s supply rewards.
 
 ***
 
-#### **How do I use a referral code?**
+#### **How to use a referral Link?**
 
-1. **Connect Account**
+1. **Use the Referral Link**
 
-Visit “[takara referral page](https://app.takaralend.com/leaderboard)” and connect a compatible wallet.
+Access Takara Referral page via the Referral link provided by referrer.
 
-2. **Enter the Referral Code**
+2. **Connect Account**
 
-Input the code received from the referrer.
+Connect a compatible wallet and complete the signature request in the wallet.
