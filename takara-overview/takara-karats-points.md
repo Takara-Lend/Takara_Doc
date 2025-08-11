@@ -1,16 +1,54 @@
 # 💎 Takara Karats (Points)
 
-**What is Takara Karat?**
+**Takara Karats System**
 
-**Takara Karats** is a continuously evolving rewards system designed by Takara to go beyond incentivizing asset interactions. Rooted in the principles of **genuine contribution, dynamic growth, and meaningful rewards**, it aims to build a long-term framework that motivates ongoing community engagement and enables users to grow alongside Takara.
+“Karats” represents Takara’s core philosophy — valuing what is truly precious. Through the Karats system, Takara rewards those who genuinely recognize and contribute to its value.
 
-The system operates based on a well-defined emission formula, a tiered Boost mechanism, and sustained contribution requirements—ensuring that every **Karat** reflects real user actions and their constructive impact on the ecosystem. It embodies a closed loop of **Explore, Participate, and Earn**.
+All **interactions** on Takara protocol may contribute to **earning Karats**. In addition, Karats will also be rewarded to those who make outstanding contributions to the community.
 
-All **interactions** on Takara dApp—such as supplying, borrowing, or claiming rewards etc—may contribute to **earning Karats**. Factors influencing Karat rewards include, but are not limited to, supply/borrow size, duration, and activity frequency etc. We encourage users to actively explore the platform and unlock meaningful value.
+Karats are distributed automatically based on their on-chain activity across Takara protocol.
 
-In addition, **Takara Karats** also recognizes and rewards outstanding content creators and active contributors within the Takara community. Whether it's through high-quality content creation, community-driven promotions and hype, or enthusiastic participation in various events and campaigns—every genuine effort to support and grow the community is valued.
+Karats for community contributions are distributed manually by Takara team on a weekly basis, after reviewing and validating contribution data.
 
+**Takara reserves the right to retroactively adjust point distributions at its discretion.**
 
+{% hint style="info" %}
+Karats and current tier can be tracked here: [https://app.takaralend.com/leaderboard](https://app.takaralend.com/leaderboard)
+{% endhint %}
 
-**How to Earn Karats?**
+> Note: Access to the full functionality of the Karats System requires entering the Takara Karats interface, connecting a compatible wallet, and completing signature verification.
+
+{% hint style="info" %}
+Want to boost Karats by 10%? Become others’ invitee! Learn more:\[[Takara Referral System](https://takara.gitbook.io/takara-lend/~/revisions/hd6f0QgYfqOwAzBY9nWN/takara-overview/referral-system)]
+{% endhint %}
+
+#### **Activity**
+
+The Activity section tracks each user’s on-chain activity within Takara on a daily basis.
+
+Deeper colors indicate higher activity levels for that day, allowing users to visually assess their daily engagement at a glance.
+
+#### Tier/NFT
+
+Tiers represent the level of positions a user holds on Takara. The more positions users maintain, the higher their tiers.
+
+The tiers, from lowest to highest, are: _Takara Wanderer_, _Takara Pioneer_, _Takara Seeker_, _Takara Conqueror_, and _Takara Legend_.
+
+Higher tiers will grant greater benefits within the Takara ecosystem in the future. Additional tier-related features will be revealed soon.
+
+The NFT functionality is not yet available — stay tuned for updates.
+
+#### Quest
+
+In the Quests section, users can claim daily Karats by checking in.
+
+_**Important**: Daily check-in Karats can only be claimed after the supply rewards in the“Rewards” section have been claimed._
+
+Additional quests with various rewards will also be published here over time — be sure to participate actively.
+
+#### Leaderboard
+
+The Leaderboard displays the current top 15 users ranked by supply volume.
+
+Increase the supply and aim for a spot among the leaders!
 
