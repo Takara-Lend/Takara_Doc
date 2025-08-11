@@ -24,11 +24,11 @@ Visit “[takara referral page](https://app.takaralend.com/leaderboard)”, find
 
 _**Note**: Users must have **3500** Karats to generate the referral Link._
 
-1. **Share the Referral Link**
+2. **Share the Referral Link**
 
 Share the Link directly with friends or community members.
 
-1. **Track Referral Activity**
+3. **Track Referral Activity**
 
 Once a user signs up using a specific referral Link, the referrer begins earning referral rewards based on the user’s supply rewards.
 
